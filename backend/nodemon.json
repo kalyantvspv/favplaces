@@ -1,8 +1,0 @@
-{
-    "env":{
-        "DB_USER":"kallu",
-        "DB_PASSWORD":"kallu123",
-        "DB_NAME":"favplace",
-        "JWT_KEY":"supersecret_dont_share"
-    }
-}
